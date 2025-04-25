@@ -3,12 +3,14 @@
 Я установил дистрибутив Arch Linux и все необходимые пакеты.
 
 1. Создал новый файл с именем `script.bash`, вписал следующий скрипт, сохранил его и выполнил в терминале
-![First.png](Screeenshots/1.png)
 ```bash
 #!/bin/bash
 
 echo "Welcome to ITMO University"
 ```
+
+![First.png](Screeenshots/1.png)
+
 
 2. Изменил скрипт под задачу лабороторной работы и выполнил его в терминале
 ![Second.png](Screeenshots/2.png)
