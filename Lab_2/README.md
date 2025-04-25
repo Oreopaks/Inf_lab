@@ -74,7 +74,7 @@ binary_ip=${binary_ip%?}
 
 **Вход:**
 
-```./script.sh 192.168.1.1```
+```./script.bash 192.168.1.1```
 
 **Вывод:**
 
@@ -84,7 +84,7 @@ binary_ip=${binary_ip%?}
 
 **Вход:**
 
-```./script.sh 192.168.1```
+```./script.bash 192.168.1```
 
 **Вывод:**
 
@@ -94,9 +94,10 @@ binary_ip=${binary_ip%?}
 
 **Вход:**
 
-```./script.sh 192.168.256.1```
+```./script.bash 192.168.256.1```
 
 **Вывод:**
 
 ```IP address is not correct```
 
+![output.png](Screeenshots/1.png)
