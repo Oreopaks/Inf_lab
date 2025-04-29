@@ -9,11 +9,11 @@
 echo "Welcome to ITMO University"
 ```
 
-![First.png](Screeenshots/1.png)
+![First.png](Screenshots/1.png)
 
 
 2. Изменил скрипт под задачу лабороторной работы и выполнил его в терминале
-![Second.png](Screeenshots/2.png)
+![Second.png](Screenshots/2.png)
 
 
 

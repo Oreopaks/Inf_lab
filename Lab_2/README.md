@@ -100,4 +100,4 @@ binary_ip=${binary_ip%?}
 
 ```IP address is not correct```
 
-![output.png](Screeenshots/1.png)
+![output.png](Screenshots/1.png)
